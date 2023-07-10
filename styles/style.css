@@ -34,7 +34,7 @@
     
 }
 .banner-info{
-    width: 100%;
+    width: 100%;    /*display flex ta width nicce tai ek pase e lekha gula sore astece .100%dewar gap ta soman vabe distributed hoye jacce*/
 }
 .primary-color{
     color: red;
@@ -44,3 +44,22 @@
     font-weight: bold;
     color: white;
 }
+.banner-description{
+    padding: 20px;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+ .btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    
+ }
+ .bg-primary{
+    color: white;
+    background-color: red;
+    margin-right: 10px;
+    
+    
+ }
